@@ -1,4 +1,4 @@
-Kill Messages By GR8 ( Updated for Lime )
+Kill Messages By GR8
 =============
 
 Beautiful Kill Messages Notifications with lots of options. Eye Apealing and made for bragging for good kills.
